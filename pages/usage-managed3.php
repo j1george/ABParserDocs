@@ -12,7 +12,7 @@
     <h1 id="title">Double Comma Parser</h1>
     <hr>
     <p>
-        Now, then, let's take everything we've done and put it together in a proper parser, this parser will parse an made-up format called the <b>double comma format</b>, which is described below.<br><br>
+        Now, then, let's take everything we've done and put it together in a proper parser, this parser will parse a made-up format called the <b>double comma format</b>, which is described below.<br><br>
         This is a good test format to use as it also shows ABParser can be useful, as you'll notice that there is a "," token AND a ",," token and ABParser is able to detect which one is in the text seamlessly.
     </p>
 
